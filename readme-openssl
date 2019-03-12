@@ -1,0 +1,13 @@
+step1
+°²×°ActivePerl
+step2
+cd openssl
+step3
+perl Configure VC-WIN64A no-asm --prefix="f:\openssl\openssl"
+step4
+nmake
+step5 
+nmake test
+ste6
+nmake install
+
